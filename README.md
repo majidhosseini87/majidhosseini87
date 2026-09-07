@@ -1,4 +1,4 @@
-# Hi, I'm Seyed-Majid Hosseini 👋
+# Hi, I'm Majid Hosseini 👋
 
 PhD Candidate in Computer Engineering at **Ferdowsi University of Mashhad**.
 
