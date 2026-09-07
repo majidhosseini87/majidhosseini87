@@ -84,13 +84,12 @@ Artificial Intelligence, Machine Learning, Deep Learning, NLP, and modern AI tec
 
 ### Current Courses
 
-- **آموزش شبکه عصبی ResNet چیست** — منتشر شده
+- **What Is ResNet Neural Network Training?** — Published
+- 
+- **Training Transformer and BERT Neural Networks in Natural Language Processing** — Currently in production  [GitHub Code](https://github.com/majidhosseini87/transformer-bert-faradars))
 
-- **آموزش شبکه عصبی ترنسفورمر و BERT در پردازش زبان طبیعی** — در قسمت تدوین  
-  [GitHub Code](https://github.com/majidhosseini87/transformer-bert-faradars))
-
-- **آموزش مهندسی ویژگی با sklearn** — در قسمت ضبط
-
+- **Feature Engineering Training with sklearn** — in the recording section
+- 
 ➡️ [Courses and educational content](https://majid-hosseini.ir/courses)
 
 ---
