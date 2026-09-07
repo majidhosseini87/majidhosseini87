@@ -91,7 +91,7 @@ Artificial Intelligence, Machine Learning, Deep Learning, NLP, and modern AI tec
 
 - **آموزش مهندسی ویژگی با sklearn** — در قسمت ضبط
 
-➡️ [Courses and educational content](https://majid-hosseini.ir/)
+➡️ [Courses and educational content](https://majid-hosseini.ir/courses)
 
 ---
 
