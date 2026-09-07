@@ -85,11 +85,10 @@ Artificial Intelligence, Machine Learning, Deep Learning, NLP, and modern AI tec
 ### Current Courses
 
 - **What Is ResNet Neural Network Training?** — Published
-- 
 - **Training Transformer and BERT Neural Networks in Natural Language Processing** — Currently in production  [GitHub Code](https://github.com/majidhosseini87/transformer-bert-faradars))
 
 - **Feature Engineering Training with sklearn** — in the recording section
-- 
+  
 ➡️ [Courses and educational content](https://majid-hosseini.ir/courses)
 
 ---
